@@ -1,7 +1,7 @@
 # Hybrid CNN-Transformer Model for Glaucoma Diagnosis from AS-OCT Images
 
 ## 📌 Abstract
-This repository contains the official PyTorch implementation of the paper: **"Diagnosis of Angle Closure Glaucoma from Anterior Segment OCT Images using a Hybrid CNN-Transformer Architecture"**.
+This repository contains the official PyTorch implementation of the paper: **"Potential role of iris features for classification of angle closure glaucoma: insights from deep-learning-based analysis of AS-OCT scans and study of iris smoothness"**.
 
 We propose a robust deep learning framework that combines **EfficientNet-B3** and **Swin Transformer** to classify Angle Closure Glaucoma subtypes (PACS, PAC, PACG) and Normal eyes. Additionally, a **U-Net** based segmentation module is employed for precise Iris Region of Interest (ROI) extraction to enhance model performance.
 
