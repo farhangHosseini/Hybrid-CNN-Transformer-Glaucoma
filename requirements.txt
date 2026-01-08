@@ -1,0 +1,12 @@
+torch>=1.12.0
+torchvision>=0.13.0
+timm>=0.6.12
+albumentations>=1.3.0
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+openpyxl
+tqdm
